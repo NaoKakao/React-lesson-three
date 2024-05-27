@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Unlimited 300",
+    "сurrency": "euro",
+    "price": "300",
+    "timeline": "month",
+    "speed": "up to 10 Mbps",
+    "comment": "The amount of included traffic is not limited",
+    "color": "blue",
+    "status": "optional"
+  },
+  {
+    "id": 2,
+    "name": "Unlimited 450",
+    "сurrency": "euro",
+    "price": "450",
+    "timeline": "month",
+    "speed": "up to 50 Mbps",
+    "comment": "The amount of included traffic is not limited",
+    "color": "green",
+    "status": "optional"
+  },
+  {
+    "id": 3,
+    "name": "Unlimited 550",
+    "сurrency": "euro",
+    "price": "550",
+    "timeline": "month",
+    "speed": "up to 100 Mbps",
+    "comment": "The amount of included traffic is not limited",
+    "color": "red",
+    "status": "recommended"
+  },
+  {
+    "id": 4,
+    "name": "Unlimited 1000",
+    "сurrency": "euro",
+    "price": "1000",
+    "timeline": "month",
+    "speed": "up to 200 Mbps",
+    "comment": "The amount of included traffic is not limited",
+    "color": "black",
+    "status": "optional"
+  }
+]
